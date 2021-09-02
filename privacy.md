@@ -1,8 +1,8 @@
-#Privacy Policy
+# Privacy Policy
 
-#PRIVACY NOTICE
+# PRIVACY NOTICE
 
-##Last updated September 02, 2021
+## Last updated September 02, 2021
 
 
 
@@ -18,7 +18,7 @@ The purpose of this privacy notice is to explain to you in the clearest way poss
 
 Please read this privacy notice carefully, as it will help you understand what we do with the information that we collect.
 
-##TABLE OF CONTENTS
+## ABLE OF CONTENTS
 
 1. WHAT INFORMATION DO WE COLLECT?
 2. HOW DO WE USE YOUR INFORMATION?
@@ -35,7 +35,7 @@ Please read this privacy notice carefully, as it will help you understand what w
 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 14. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?
 
-##1. WHAT INFORMATION DO WE COLLECT?
+## 1. WHAT INFORMATION DO WE COLLECT?
 
 Personal information you disclose to us
 
@@ -71,7 +71,7 @@ Mobile Device Access. We may request access or permission to certain features fr
 Push Notifications. We may request to send you push notifications regarding your account or certain features of the App. If you wish to opt-out from receiving these types of communications, you may turn them off in your device's settings.
 This information is primarily needed to maintain the security and operation of our App, for troubleshooting and for our internal analytics and reporting purposes.
 
-##2. HOW DO WE USE YOUR INFORMATION?
+## 2. HOW DO WE USE YOUR INFORMATION?
 
 In Short:  We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent.
 
@@ -94,7 +94,7 @@ To respond to user inquiries/offer support to users. We may use your information
 To send you marketing and promotional communications. We and/or our third-party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. For example, when expressing an interest in obtaining information about us or our App, subscribing to marketing or otherwise contacting us, we will collect personal information from you. You can opt-out of our marketing emails at any time (see the "WHAT ARE YOUR PRIVACY RIGHTS?" below).
 Deliver targeted advertising to you. We may use your information to develop and display personalized content and advertising (and work with third parties who do so) tailored to your interests and/or location and to measure its effectiveness.
 
-##3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
+## 3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
 
 In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.
 
@@ -106,13 +106,13 @@ Affiliates. We may share your information with our affiliates, in which case we 
 Business Partners. We may share your information with our business partners to offer you certain products, services or promotions.
 Other Users. When you share personal information or otherwise interact with public areas of the App, such personal information may be viewed by all users and may be publicly made available outside the App in perpetuity. If you interact with other users of our App and register for our App through a social network (such as Facebook), your contacts on the social network will see your name, profile photo, and descriptions of your activity. Similarly, other users will be able to view descriptions of your activity, communicate with you within our App, and view your profile.
 
-##4. WHO WILL YOUR INFORMATION BE SHARED WITH?     
+## 4. WHO WILL YOUR INFORMATION BE SHARED WITH?     
 
 In Short:  We only share information with the following third parties.
 
 We only share and disclose your information with the following third parties. If we have processed your data based on your consent and you wish to revoke your consent, please contact us using the contact details provided in the section below titled "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?".
 
-##5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?     
+## 5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?     
 
 In Short:  If you choose to register or log in to our services using a social media account, we may have access to certain information about you.
 
@@ -120,7 +120,7 @@ Our App offers you the ability to register and login using your third-party soci
 
 We will use the information we receive only for the purposes that are described in this privacy notice or that are otherwise made clear to you on the relevant App. Please note that we do not control, and are not responsible for, other uses of your personal information by your third-party social media provider. We recommend that you review their privacy notice to understand how they collect, use and share your personal information, and how you can set your privacy preferences on their sites and apps.
 
-##6. HOW LONG DO WE KEEP YOUR INFORMATION?
+## 6. HOW LONG DO WE KEEP YOUR INFORMATION?
 
 In Short:  We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
 
@@ -128,19 +128,19 @@ We will only keep your personal information for as long as it is necessary for t
 
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
-##7. HOW DO WE KEEP YOUR INFORMATION SAFE?
+## 7. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
 In Short:  We aim to protect your personal information through a system of organizational and technical security measures.
 
 We have implemented appropriate technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security, and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our App is at your own risk. You should only access the App within a secure environment.
 
-##8. DO WE COLLECT INFORMATION FROM MINORS?
+## 8. DO WE COLLECT INFORMATION FROM MINORS?
 
 In Short:  We do not knowingly collect data from or market to children under 18 years of age.
 
 We do not knowingly solicit data from or market to children under 18 years of age. By using the App, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the App. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at covacpass@gmail.com.
 
-##9. WHAT ARE YOUR PRIVACY RIGHTS?
+## 9. WHAT ARE YOUR PRIVACY RIGHTS?
 
 In Short:  In some regions, such as the European Economic Area (EEA) and United Kingdom (UK), you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.
 
@@ -165,11 +165,11 @@ Opting out of email marketing: You can unsubscribe from our marketing email list
 Access your account settings and update your preferences.
 Contact us using the contact information provided.
 
-##10. CONTROLS FOR DO-NOT-TRACK FEATURES
+## 10. CONTROLS FOR DO-NOT-TRACK FEATURES
 
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice. 
 
-##11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+## 11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
 In Short:  Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.
 
@@ -177,13 +177,13 @@ California Civil Code Section 1798.83, also known as the "Shine The Light" law, 
 
 If you are under 18 years of age, reside in California, and have a registered account with the App, you have the right to request removal of unwanted data that you publicly post on the App. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the App, but please be aware that the data may not be completely or comprehensively removed from all our systems (e.g. backups, etc.).
 
-##12. DO WE MAKE UPDATES TO THIS NOTICE?     
+## 12. DO WE MAKE UPDATES TO THIS NOTICE?     
 
 In Short:  Yes, we will update this notice as necessary to stay compliant with relevant laws.
 
 We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
 
-##13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?     
+## 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?     
 
 If you have questions or comments about this notice, you may email us at covacpass@gmail.com or by post to:
 
@@ -191,6 +191,6 @@ __________
 __________
 __________
 
-##14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?     
+## 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?     
 
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking here.
