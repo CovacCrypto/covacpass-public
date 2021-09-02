@@ -1,0 +1,2 @@
+# covacpass-public
+Public Information
