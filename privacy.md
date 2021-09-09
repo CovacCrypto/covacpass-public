@@ -1,12 +1,11 @@
-# Privacy Policy
+# Privacy Policy Preview
 
-# PRIVACY NOTICE
 
 ## Last updated September 02, 2021
 
 
 
-Thank you for choosing to be part of our community at _COVAC.IO_ ("Company," "we," "us," or "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us at covacpass@gmail.com.
+Thank you for choosing to be part of our community at __COVAC.IO___ ("Company," "we," "us," or "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us at covacpass@gmail.com.
 
 This privacy notice describes how we might use your information if you:
 Download and use our mobile application — COVAC Pass+
@@ -18,7 +17,7 @@ The purpose of this privacy notice is to explain to you in the clearest way poss
 
 Please read this privacy notice carefully, as it will help you understand what we do with the information that we collect.
 
-## ABLE OF CONTENTS
+## TABLE OF CONTENTS
 
 1. WHAT INFORMATION DO WE COLLECT?
 2. HOW DO WE USE YOUR INFORMATION?
@@ -41,11 +40,11 @@ Personal information you disclose to us
 
 In Short:  We collect personal information that you provide to us.
 
-We collect personal information that you voluntarily provide to us when you register on the App, express an interest in obtaining information about us or our products and Services, when you participate in activities on the App (such as by posting messages in our online forums or entering competitions, contests or giveaways) or otherwise when you contact us.
+We collect personal information that you voluntarily provide to us when you register on the App, express an interest in obtaining information about us or our products and Services, when you participate in activities on the App or otherwise when you contact us.
 
 The personal information that we collect depends on the context of your interactions with us and the App, the choices you make and the products and features you use. The personal information we collect may include the following:
 
-Personal Information Provided by You. We collect names; email addresses; usernames; and other similar information.
+Personal Information Provided by You. We collect names; email addresses; usernames; profile picture; and other similar information.
 
 Social Media Login Data. We may provide you with the option to register with us using your existing social media account details, like your Facebook, Twitter or other social media account. If you choose to register in this way, we will collect the information described in the section called "HOW DO WE HANDLE YOUR SOCIAL LOGINS?" below.
 
@@ -67,7 +66,7 @@ In Short:  We collect information regarding your geolocation, mobile device, pus
 
 If you use our App, we also collect the following information:
 Geolocation Information. We may request access or permission to and track location-based information from your mobile device, either continuously or while you are using our App, to provide certain location-based services. If you wish to change our access or permissions, you may do so in your device's settings.
-Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's bluetooth, camera, storage, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
+Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's bluetooth, camera, storage, social media accounts, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
 Push Notifications. We may request to send you push notifications regarding your account or certain features of the App. If you wish to opt-out from receiving these types of communications, you may turn them off in your device's settings.
 This information is primarily needed to maintain the security and operation of our App, for troubleshooting and for our internal analytics and reporting purposes.
 
@@ -102,15 +101,13 @@ We may process or share your data that we hold based on the following legal basi
 More specifically, we may need to process your data or share your personal information in the following situations:
 Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
 Vendors, Consultants and Other Third-Party Service Providers. We may share your data with third-party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology on the App, which will enable them to collect data on our behalf about how you interact with our App over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content, pages or features, and better understand online activity. Unless described in this notice, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes.
-Affiliates. We may share your information with our affiliates, in which case we will require those affiliates to honor this privacy notice. Affiliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us.
-Business Partners. We may share your information with our business partners to offer you certain products, services or promotions.
-Other Users. When you share personal information or otherwise interact with public areas of the App, such personal information may be viewed by all users and may be publicly made available outside the App in perpetuity. If you interact with other users of our App and register for our App through a social network (such as Facebook), your contacts on the social network will see your name, profile photo, and descriptions of your activity. Similarly, other users will be able to view descriptions of your activity, communicate with you within our App, and view your profile.
 
 ## 4. WHO WILL YOUR INFORMATION BE SHARED WITH?     
 
-In Short:  We only share information with the following third parties.
+In Short:  We only share information with the following categories of third parties.
 
-We only share and disclose your information with the following third parties. If we have processed your data based on your consent and you wish to revoke your consent, please contact us using the contact details provided in the section below titled "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?".
+We only share and disclose your information with the following categories of third parties. If we have processed your data based on your consent and you wish to revoke your consent, please contact us using the contact details provided in the section below titled "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?".
+Data Analytics Services
 
 ## 5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?     
 
@@ -194,3 +191,4 @@ __________
 ## 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?     
 
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking here.
+This privacy policy was created using Termly’s Privacy Policy Generator.
